@@ -1,0 +1,14 @@
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.AssemblyInfoInputs.cache
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.AssemblyInfo.cs
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.csproj.CoreCompileInputs.cache
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\bin\Debug\net10.0\session_task_1.exe
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\bin\Debug\net10.0\session_task_1.deps.json
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\bin\Debug\net10.0\session_task_1.runtimeconfig.json
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\bin\Debug\net10.0\session_task_1.dll
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\bin\Debug\net10.0\session_task_1.pdb
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.dll
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\refint\session_task_1.dll
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.pdb
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\session_task_1.genruntimeconfig.cache
+D:\marwan folder\ASP.Net\projects\Route\Session Task_1\session_task_1\obj\Debug\net10.0\ref\session_task_1.dll

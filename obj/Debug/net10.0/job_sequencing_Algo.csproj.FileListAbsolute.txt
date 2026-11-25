@@ -1,0 +1,14 @@
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\bin\Debug\net10.0\job_sequencing_Algo.exe
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\bin\Debug\net10.0\job_sequencing_Algo.deps.json
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\bin\Debug\net10.0\job_sequencing_Algo.runtimeconfig.json
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\bin\Debug\net10.0\job_sequencing_Algo.dll
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\bin\Debug\net10.0\job_sequencing_Algo.pdb
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.AssemblyInfoInputs.cache
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.AssemblyInfo.cs
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.csproj.CoreCompileInputs.cache
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.dll
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\refint\job_sequencing_Algo.dll
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.pdb
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.genruntimeconfig.cache
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\ref\job_sequencing_Algo.dll
