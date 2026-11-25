@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("job_sequencing_Algo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c9e0ba349130e8a9a09dc1c0455e4ed512cae1")]
 [assembly: System.Reflection.AssemblyProductAttribute("job_sequencing_Algo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("job_sequencing_Algo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj
 D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.pdb
 D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.genruntimeconfig.cache
 D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\ref\job_sequencing_Algo.dll
+D:\marwan folder\ASP.Net\projects\job_sequencing_problem\job_sequencing_Algo\obj\Debug\net10.0\job_sequencing_Algo.sourcelink.json
